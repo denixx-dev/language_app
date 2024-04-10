@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">Language_app</string>
+    <string name="onboarding_1_next_button">Next</string>
+    <string name="onboarding_2_more_button">More</string>
+    <string name="onboarding_3_choose_lang_button">Choose a language</string>
+    <string name="skip_onboarding">Skip onboarding</string>
+</resources>
