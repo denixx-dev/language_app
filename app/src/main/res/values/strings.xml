@@ -4,4 +4,12 @@
     <string name="onboarding_2_more_button">More</string>
     <string name="onboarding_3_choose_lang_button">Choose a language</string>
     <string name="skip_onboarding">Skip onboarding</string>
+    <string name="choose_lang_title">Language select</string>
+    <string name="whats_your_language">What is your Mother language?</string>
+    <string name="russian">Russian</string>
+    <string name="english">English</string>
+    <string name="chinese">Chinese</string>
+    <string name="belarus">Belarus</string>
+    <string name="kazakh">Kazakh</string>
+    <string name="choose">Choose</string>
 </resources>
