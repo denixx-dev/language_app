@@ -16,4 +16,9 @@
     <string name="loginTextView1">For free, join now and start learning</string>
     <string name="loginEmail">Email Address</string>
     <string name="loginPass">Password</string>
+    <string name="confirmPass">Confirm Password</string>
+    <string name="signup">Signup</string>
+    <string name="firstName">First Name</string>
+    <string name="lastName">Last Name</string>
+    <string name="Continue">Continue</string>
 </resources>
