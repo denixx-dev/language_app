@@ -2,6 +2,7 @@ package org.kazino.language_app;
 
 import androidx.appcompat.app.AppCompatActivity;
 
+import android.content.Intent;
 import android.os.Bundle;
 import android.view.View;
 import android.widget.Button;
@@ -88,6 +89,14 @@ public class LanguageSelect extends AppCompatActivity {
 
                 // Set the orange color to the pressed button
                 kazakhButton.setSelected(true);
+            }
+        });
+
+        Button chooseButton = findViewById(R.id.choose_button);
+        chooseButton.setOnClickListener(new View.OnClickListener() {
+            @Override
+            public void onClick(View v) {
+                startActivity(new Intent(LanguageSelect.this, Login.class));
             }
         });
     }
