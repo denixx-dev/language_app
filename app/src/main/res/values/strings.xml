@@ -14,4 +14,6 @@
     <string name="choose">Choose</string>
     <string name="login">Login</string>
     <string name="loginTextView1">For free, join now and start learning</string>
+    <string name="loginEmail">Email Address</string>
+    <string name="loginPass">Password</string>
 </resources>
