@@ -21,4 +21,8 @@
     <string name="firstName">First Name</string>
     <string name="lastName">Last Name</string>
     <string name="Continue">Continue</string>
+    <string name="guess_the_animal">Guess the animal</string>
+    <string name="next">Next</string>
+    <string name="try_again">Try again</string>
+    <string name="word_practice">Word practice</string>
 </resources>
