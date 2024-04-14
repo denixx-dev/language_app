@@ -29,5 +29,13 @@ public class MainActivity extends AppCompatActivity {
                 startActivity(new Intent(MainActivity.this, WordPractice.class));
             }
         });
+
+        Button listeningButton = findViewById(R.id.buttonListening);
+        listeningButton.setOnClickListener(new View.OnClickListener() {
+            @Override
+            public void onClick(View v) {
+                startActivity(new Intent(MainActivity.this, Audition.class));
+            }
+        });
     }
 }
