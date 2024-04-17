@@ -35,6 +35,14 @@ public class Login extends AppCompatActivity {
                 startActivity(new Intent(Login.this, MainActivity.class));
             }
         });
+
+        TextView forgotPass = findViewById(R.id.forgotPassText);
+        forgotPass.setOnClickListener(new View.OnClickListener() {
+            @Override
+            public void onClick(View v) {
+                startActivity(new Intent(Login.this, Signup_2.class));
+            }
+        });
     }
     public void onBackButtonClicked(View view) {
         onBackPressed();
